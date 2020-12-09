@@ -2,7 +2,7 @@
 
 mybuzz-space-pro
 
-Espace Pro pour visualiser les buzzs (images) du client pro. Le client pro est proprietaire d'un buzz apparent dans l'application. Ce buzz étant privé ou public, cette espace permete seulement au client de voir les buzzs qui lui appartienent et de savoir le nombre de cas utilisées d'un buzz zt enfin gerer la gestion de validation des buzzs privées.
+Espace Pro pour visualiser les buzzs (images) du client pro. Le client pro est proprietaire d'un buzz apparent dans l'application. Ce buzz étant privé (nécessite une validation du client Pro)  ou public (autorisation directe pas besoin de review) , cet espace permet seulement au client de voir les buzzs qui lui appartienent et de savoir le nombre d'utilisation du buzz et enfin gérer la gestion de validation des buzzs privés.
 
 ## Project Status
 
