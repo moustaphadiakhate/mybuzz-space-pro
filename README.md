@@ -37,6 +37,6 @@ Pour visiter l'App:
 
 ## Reflection
 
-Etant donné mybuzz est une application de design graphique (AR - collage), nous sommes dans l'obligation de fournir à nous partenaires une espace de visualisation et de gestion de leurs produits (Buzz) cependant il faut forcément une espace pour voir le l'historique de hêtre, les buzzs en cours, le nombre cas d'utilisation et si le buzz est privé le pro doit pouvoir APPROUVER OU DESAPROUVER un buzz soumis à une étude (review).
+Etant donné mybuzz est une application de design graphique (AR - collage), nous sommes dans l'obligation de fournir à nos partenaires un espace de visualisation et de gestion de leurs produits (Buzz) cependant il faut forcément un espace pour voir l'historique des buzzs, les buzzs en cours, le nombre cas d'utilisation et si le buzz est privé le client pro doit pouvoir APPROUVER OU DESAPROUVER un buzz soumis à une étude (review).
 
 Nous développerons la plateforme (espace pro) avec  `react` , `react-router` and `redux` grace a l'outil de lingne de commade create-react-app .  
