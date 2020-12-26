@@ -43,8 +43,9 @@ Nous développerons la plateforme (espace pro) avec  `react` , `react-router` an
 
 ## models database
 
-# user
-`{
+### user
+```javascript
+{
   username: {
     type: String,
     unique: true,
@@ -91,10 +92,12 @@ Nous développerons la plateforme (espace pro) avec  `react` , `react-router` an
       }
     }
   ]
-}`
+}
+```
 
-# usecase
-`{
+### usecase
+```javascript
+{
   date: {
     type: Date,
     default: Date.now
@@ -114,10 +117,12 @@ Nous développerons la plateforme (espace pro) avec  `react` , `react-router` an
   useCasesUri: {
     type: String,
   }
-}` 
+}
+```
 
-# buzz
- `{
+### buzz
+ ```javascript
+{
   buzzType: {
     type: String, // enumeration
     enum: ["BUZZ_FILTER", "BUZZ_COLLAGE"]
@@ -166,4 +171,5 @@ Nous développerons la plateforme (espace pro) avec  `react` , `react-router` an
     enum: ["BUZZ_HOT", "BUZZ_COLD"], // depends on delai(date) > date.now
     require: false
   }
-}` 
+}
+```
